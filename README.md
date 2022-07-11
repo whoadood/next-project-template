@@ -7,6 +7,7 @@ First, run the development server:
 ```bash
 yarn dev
 ```
+Next, create a .env file using the .env.TEMPLATE variables
 
 ## Update Prisma Schema
 
